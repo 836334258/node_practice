@@ -24,3 +24,4 @@ console.log(stdout.getColorDepth())
 
 // WriteStream 对应的终端的尺寸 [ 149, 23 ]
 console.log(stdout.getWindowSize())
+
