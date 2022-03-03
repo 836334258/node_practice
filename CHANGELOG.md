@@ -1,9 +1,10 @@
-# 1.0.0 (2022-02-28)
+# 1.0.0 (2022-03-01)
 
 
 ### Features
 
 * **changelog:** chagnelog ([254efb5](https://github.com/836334258/node_practice/commit/254efb50725ed7cc04fd28b2c1c0cb39459284f4))
+* **fs:** fs ([6257049](https://github.com/836334258/node_practice/commit/6257049fc44e31604f42ecc03500c26e78a9de93))
 * **path:** path ([237dca2](https://github.com/836334258/node_practice/commit/237dca247ff4f1b938fd529c8717295d8217142d))
 * **process:** process ([c1403e2](https://github.com/836334258/node_practice/commit/c1403e2dcfe0c2e1030a29af59b9e4829aa015ba))
 * **timer:** timer ([4743f62](https://github.com/836334258/node_practice/commit/4743f62bf00e84d58c6d75d614b6d5aaa172ccf3))
